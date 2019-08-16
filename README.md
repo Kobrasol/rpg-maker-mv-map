@@ -1,2 +1,2 @@
 # rpg-maker-mv-map
-Создание карт для rpg maker mv
+Создание мини карты для rpg maker mv
